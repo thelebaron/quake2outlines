@@ -1,0 +1,1 @@
+commented out 	"assert( err == GL_NO_ERROR );" in /win32/glw_imp.c fixed crashing error(dunno why)

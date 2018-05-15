@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "game", "game.vcproj", "{E2D0B074-8B07-4982-BF96-4F82B61725CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug Alpha|Win32 = Debug Alpha|Win32
+		Debug|Win32 = Debug|Win32
+		Release Alpha|Win32 = Release Alpha|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2D0B074-8B07-4982-BF96-4F82B61725CA}.Debug Alpha|Win32.ActiveCfg = Debug Alpha|Win32
+		{E2D0B074-8B07-4982-BF96-4F82B61725CA}.Debug Alpha|Win32.Build.0 = Debug Alpha|Win32
+		{E2D0B074-8B07-4982-BF96-4F82B61725CA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E2D0B074-8B07-4982-BF96-4F82B61725CA}.Debug|Win32.Build.0 = Debug|Win32
+		{E2D0B074-8B07-4982-BF96-4F82B61725CA}.Release Alpha|Win32.ActiveCfg = Release Alpha|Win32
+		{E2D0B074-8B07-4982-BF96-4F82B61725CA}.Release Alpha|Win32.Build.0 = Release Alpha|Win32
+		{E2D0B074-8B07-4982-BF96-4F82B61725CA}.Release|Win32.ActiveCfg = Release|Win32
+		{E2D0B074-8B07-4982-BF96-4F82B61725CA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
