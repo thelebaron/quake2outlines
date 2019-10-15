@@ -1,9 +1,7 @@
 # quake2outlines
-quake 2 engine mod that adds outlines to geometry
+Quake 2 engine mod that adds outlines to geometry
 
-XTREME Q2 (Max?)
-
-Its been eons since I made this(holy shit) and I dont remember anything about what I did I dont even remember the full name of this, only that i called it xtreme something or other. 
+This was made some time prior to 2013.
 
 Outline code was taken from QMB(engine mod for q1) and added into quake2max. 
 
@@ -16,11 +14,6 @@ r_outline 0 or 1
 
 also from q2max the command for outlines on playermodels and items is
 r_cellshading 0 or 1
-
-enjoy,
-chris lebaron
-
-
 
 CODE NOTES:
 
