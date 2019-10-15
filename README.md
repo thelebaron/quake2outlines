@@ -3,7 +3,7 @@ Quake 2 engine mod that adds outlines to geometry
 
 This was made some time prior to 2013.
 
-Outline code was taken from QMB(engine mod for q1) and added into quake2max. 
+Outline code was taken from QMB(engine mod for q1) and added into this. 
 
 TO PLAY:
 Extract files into q2 directory. I already included a copy of quake2max with the updated exe and dlls from own mod. No idea how current it(quake2max version I included) is.
