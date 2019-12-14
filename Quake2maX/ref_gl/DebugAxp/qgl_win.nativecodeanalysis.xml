@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\thele\documents\repos\quake2outlines\quake2max\win32</FILEPATH>
+      <FILENAME>qgl_win.c</FILENAME>
+      <LINE>3041</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'putenv'.</DESCRIPTION>
+    <FUNCTION>QGL_Init</FUNCTION>
+    <DECORATED>QGL_Init</DECORATED>
+    <FUNCLINE>3032</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\thele\documents\repos\quake2outlines\quake2max\win32</FILEPATH>
+      <FILENAME>qgl_win.c</FILENAME>
+      <LINE>3043</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'putenv'.</DESCRIPTION>
+    <FUNCTION>QGL_Init</FUNCTION>
+    <DECORATED>QGL_Init</DECORATED>
+    <FUNCLINE>3032</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\thele\documents\repos\quake2outlines\quake2max\win32</FILEPATH>
+      <FILENAME>qgl_win.c</FILENAME>
+      <LINE>3440</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'asctime'.</DESCRIPTION>
+    <FUNCTION>GLimp_EnableLogging</FUNCTION>
+    <DECORATED>GLimp_EnableLogging</DECORATED>
+    <FUNCLINE>3427</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

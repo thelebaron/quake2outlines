@@ -1,0 +1,16 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.c
+  cl_tempevt.c
+  cl_particles.c
+  cl_menu.c
+  cl_hud.c
+  cl_ents_sv.c
+  cl_ents_cl.c
+  cl_ents.c
+  cl_cvar.c
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(C:\Users\thele\Documents\repos\quake2outlines\Quake2maX\client_side\.\Debug\client_side.dll) does not match the Linker's OutputFile property value (C:\Users\thele\Documents\repos\quake2outlines\build\quake2\baseq2\clientx86.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(client_side) does not match the Linker's OutputFile property value (clientx86). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+cl_cvar.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library .\Debug/clientx86.lib and object .\Debug/clientx86.exp
+  client_side.vcxproj -> C:\Users\thele\Documents\repos\quake2outlines\Quake2maX\client_side\.\Debug\client_side.dll

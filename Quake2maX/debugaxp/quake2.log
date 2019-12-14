@@ -1,0 +1,57 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/QA21164'
+cl : Command line warning D9002: ignoring unknown option '/QAieee1'
+  cl_cin.c
+  cl_ents.c
+  cl_fx.c
+  cl_input.c
+  cl_inv.c
+  cl_main.c
+  cl_newfx.c
+  cl_parse.c
+  cl_pred.c
+  cl_scrn.c
+  cl_tent.c
+  cl_view.c
+  console.c
+  keys.c
+  menu.c
+  qmenu.c
+  snd_dma.c
+  snd_mem.c
+  snd_mix.c
+  x86.c
+  Generating Code...
+  Compiling...
+  m_flash.c
+  q_shared.c
+  cmd.c
+  cmodel.c
+  common.c
+  crc.c
+  cvar.c
+  files.c
+  md4.c
+  net_chan.c
+  pmove.c
+  sv_ccmds.c
+  sv_ents.c
+  sv_game.c
+  sv_init.c
+  sv_main.c
+  sv_send.c
+  sv_user.c
+  sv_world.c
+  cd_win.c
+  Generating Code...
+  Compiling...
+  conproc.c
+  in_win.c
+  net_wins.c
+  q_shwin.c
+  snd_win.c
+  sys_win.c
+  vid_dll.c
+  vid_menu.c
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(C:\Users\thele\Documents\repos\quake2outlines\Quake2maX\.\DebugAxp\quake2.exe) does not match the Linker's OutputFile property value (C:\Users\thele\Documents\repos\quake2outlines\build\quake2\quake2.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  quake2.vcxproj -> C:\Users\thele\Documents\repos\quake2outlines\Quake2maX\.\DebugAxp\quake2.exe
