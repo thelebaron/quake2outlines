@@ -4,6 +4,7 @@ Quake 2 engine mod that adds outlines to geometry
 This was made some time prior to 2013.
 
 video of it in action
+![Outline Thumbnail](q2outlines.png)
 https://www.youtube.com/watch?v=7xd6XNldJbA
 
 Outline code was taken from QMB(engine mod for q1) and added into this. 
